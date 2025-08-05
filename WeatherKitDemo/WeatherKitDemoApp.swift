@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct WeatherKitDemoApp: App {
+    private let weatherManager = WeatherManager()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environment(weatherManager)
         }
     }
 }
