@@ -12,4 +12,4 @@ Specifically, this app is able to fetch and display the following
 
 In addition, the app will also automatically update weather data based on the data expiration date/time.
 
-For more details, please refer to my blog [SwiftUI: Weather App Copy Cat with Weather Kit]()
+For more details, please refer to my blog [SwiftUI: Weather App Copy Cat with Weather Kit](https://medium.com/@itsuki.enjoy/swiftui-weather-app-copy-cat-with-weather-kit-6d3dfafbd1e4)
